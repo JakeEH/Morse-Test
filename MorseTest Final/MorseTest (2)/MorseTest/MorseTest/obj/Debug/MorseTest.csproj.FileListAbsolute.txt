@@ -1,0 +1,89 @@
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\bin\Debug\MorseTest.exe.config
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\bin\Debug\MorseTest.exe
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\bin\Debug\MorseTest.pdb
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest.csprojAssemblyReference.cache
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MainWindow.g.cs
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\App.g.cs
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest_MarkupCompile.cache
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest_MarkupCompile.lref
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MainWindow.baml
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest.g.resources
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest.Properties.Resources.resources
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest.csproj.GenerateResource.cache
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest.csproj.CoreCompileInputs.cache
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest.exe
+C:\Users\hoarej\AppData\Local\Temporary Projects\MorseTest\obj\Debug\MorseTest.pdb
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\Hunspellx64.dll
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\Hunspellx86.dll
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\MorseTest.exe.config
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\MorseTest.exe
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\MorseTest.pdb
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\NHunspell.dll
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\bin\Debug\NHunspell.pdb
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest.csprojAssemblyReference.cache
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MainWindow.g.cs
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\App.g.cs
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest_MarkupCompile.cache
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest_MarkupCompile.lref
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MainWindow.baml
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest.g.resources
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest.Properties.Resources.resources
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.GenerateResource.cache
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.CoreCompileInputs.cache
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.CopyComplete
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest.exe
+C:\Users\jhoare\Desktop\MorseTest\MorseTest\obj\Debug\MorseTest.pdb
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\Hunspellx64.dll
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\Hunspellx86.dll
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.exe.config
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.exe
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.pdb
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\NHunspell.dll
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\bin\Debug\NHunspell.pdb
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csprojAssemblyReference.cache
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MainWindow.g.cs
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\App.g.cs
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest_MarkupCompile.cache
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest_MarkupCompile.lref
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MainWindow.baml
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.g.resources
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.Properties.Resources.resources
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.GenerateResource.cache
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.CoreCompileInputs.cache
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.CopyComplete
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.exe
+C:\Users\hoarej\Downloads\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.pdb
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.exe.config
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.exe
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.pdb
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csprojAssemblyReference.cache
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MainWindow.g.cs
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\App.g.cs
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest_MarkupCompile.cache
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest_MarkupCompile.lref
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MainWindow.baml
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.g.resources
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.Properties.Resources.resources
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.GenerateResource.cache
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.CoreCompileInputs.cache
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.exe
+C:\Users\jhoare\Desktop\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.pdb
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.exe.config
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.exe
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\bin\Debug\MorseTest.pdb
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csprojAssemblyReference.cache
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MainWindow.g.cs
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\App.g.cs
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest_MarkupCompile.cache
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest_MarkupCompile.lref
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MainWindow.baml
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.g.resources
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.Properties.Resources.resources
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.GenerateResource.cache
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.csproj.CoreCompileInputs.cache
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.exe
+C:\Users\hoarej\Downloads\MorseTest Final\MorseTest (2)\MorseTest\MorseTest\obj\Debug\MorseTest.pdb
